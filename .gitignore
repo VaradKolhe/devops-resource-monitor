@@ -19,4 +19,5 @@ env/
 .vscode/
 .DS_Store
 Thumbs.db
-screenshots/*.tmp
+screenshots/
+.streamlit/
